@@ -4,3 +4,4 @@ tekitoにやってみてもいいよ。
 のらねこのらねこ
 git remove
 git stataus
+git diff
