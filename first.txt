@@ -3,3 +3,4 @@ Gitの練習をしていきます。
 tekitoにやってみてもいいよ。
 のらねこのらねこ
 git remove
+git stataus
